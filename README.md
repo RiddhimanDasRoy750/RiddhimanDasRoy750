@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiddhimanDasRoy750
 - 👀 I’m interested in coding, and machines
-- 🌱 I’m currently a high school pass,and about to pursue  BS in electrical engg at UC San Diego
-  
+- 🌱 I’m currently a high school pass,and about to pursue  BS in electrical engineering.
+
   
 
 <!---
